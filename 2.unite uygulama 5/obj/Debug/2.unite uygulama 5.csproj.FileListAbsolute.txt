@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\bin\Debug\2.unite uygulama 5.exe.config
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\bin\Debug\2.unite uygulama 5.exe
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\bin\Debug\2.unite uygulama 5.pdb
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\2.unite uygulama 5.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\_2.unite_uygulama_5.Form1.resources
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\_2.unite_uygulama_5.Properties.Resources.resources
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\2.unite uygulama 5.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\2.unite uygulama 5.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\2.unite uygulama 5.exe
+C:\Users\Seyda\source\repos\2.unite uygulama 5\2.unite uygulama 5\obj\Debug\2.unite uygulama 5.pdb
